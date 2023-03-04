@@ -1,0 +1,52 @@
+{
+  "TEXTURE": 
+  [
+    [ "ENDO", "Data\/TEXTURE\/EAJt0K7UIAA9ioT.jpg" ],
+    [ "INIESUTA","Data\/TEXTURE\/2443e216c122767fd911b67e0a4db335_600.jpg" ],
+    [ "SHIBA", "Data\/TEXTURE\/shiba.png" ],
+    [ "WOOD", "Data\/TEXTURE\/wood.png" ],
+    [ "SMOKE", "Data\/TEXTURE\/smoke.jpg" ],
+    [ "EFFECT", "Data\/TEXTURE\/effect000.jpg" ],
+    [ "FLAG", "Data\/TEXTURE\/GOALUI.png" ],
+    [ "PAUSE", "Data\/TEXTURE\/pause.png" ],
+    [ "GOALUI", "Data\/TEXTURE\/Goal.png" ],
+
+    [ "SELECTSTAGE", "Data\/TEXTURE\/select.png" ],
+    [ "STAGENAME", "Data\/TEXTURE\/stagename.png" ],
+    [ "STAGENAME1", "Data\/TEXTURE\/stagename1.png" ],
+    [ "RANKING_UI", "Data\/TEXTURE\/jyunni.png" ],
+    [ "RANKING_UI_BG", "Data\/TEXTURE\/RANKING_Ui.png" ],
+    
+    [ "KEDAMA_UI","Data\/TEXTURE\/UI_Kedama.png" ],
+    [ "KEDAMA_Lope_UI","Data\/TEXTURE\/UI_KedamaLope.png" ],
+
+    [ "LIFE_UI","Data\/TEXTURE\/Life.png" ],
+    [ "CHABG", "Data\/TEXTURE\/chaBG.png" ],
+    [ "JYUUJI", "Data\/TEXTURE\/jyuuji.png" ],
+    [ "IDOU", "Data\/TEXTURE\/idou.png" ],
+    [ "TUTORIALUI", "Data\/TEXTURE\/tutolial.png" ],
+
+
+    [ "MODORU", "Data\/TEXTURE\/modoru.png" ],
+    [ "KEXTUTEI", "Data\/TEXTURE\/kextutei.png" ],
+
+    [ "A", "Data\/TEXTURE\/A.png" ],
+    [ "B", "Data\/TEXTURE\/B.png" ],
+
+    
+    [ "TUTORIAL","Data\/TEXTURE\/tutuaru.png" ],
+
+    [ "RANKINGBG","Data\/TEXTURE\/rankingBG.png" ],
+    [ "RANKING","Data\/TEXTURE\/rankingUI.png" ],
+    [ "GAMEPLAY","Data\/TEXTURE\/gameplay.png" ],
+    [ "KEITO","Data\/TEXTURE\/kedama.png" ],
+    [ "TITLE","Data\/TEXTURE\/Hairball.png" ],
+    [ "RANKING","Data\/TEXTURE\/Ranking.png" ],
+    [ "COMPASS","Data\/TEXTURE\/compas.png" ],
+    [ "NUMBER","Data\/TEXTURE\/number000.png" ],
+    [ "OMOIDE","Data\/TEXTURE\/omoide.png" ],
+    [ "ME","Data\/TEXTURE\/01.png" ],
+    [ "REDY","Data\/TEXTURE\/1.png" ],
+    [ "GO", "Data\/TEXTURE\/2.png" ]
+  ]
+}

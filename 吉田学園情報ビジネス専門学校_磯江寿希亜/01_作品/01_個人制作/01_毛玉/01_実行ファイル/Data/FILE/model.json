@@ -1,0 +1,47 @@
+{
+  "MODEL": [
+    [ "Box", "Data\/MODEL\/Box.x" ],
+    [ "Ball", "Data\/MODEL\/Ball.x" ],
+    [ "Kedama", "Data\/MODEL\/kedama.x" ],
+    [ "BOTTLE", "Data\/MODEL\/bottle.x" ],
+    [ "TABLE", "Data\/MODEL\/table.x" ],
+    [ "GROUND", "Data\/MODEL\/Ground.x" ],
+    [ "CHAIR", "Data\/MODEL\/Chair.x" ],
+    [ "CUP", "Data\/MODEL\/cup.x" ],
+    [ "DISH", "Data\/MODEL\/dish.x" ],
+    [ "DOOR", "Data\/MODEL\/door.x" ],
+    [ "PICTURE", "Data\/MODEL\/Picture.x" ],
+    [ "BOOKSHELF", "Data\/MODEL\/bookshelf.x" ],
+    [ "CHEST", "Data\/MODEL\/Chest.x" ],
+    [ "SPOON", "Data\/MODEL\/spoon.x" ],
+    [ "PLATE", "Data\/MODEL\/plate.x" ],
+    [ "CAKESTAND", "Data\/MODEL\/cakestand.x" ],
+    [ "HOURGLASS", "Data\/MODEL\/hourglass.x" ],
+    [ "BOOK", "Data\/MODEL\/book.x" ],
+    [ "PHOTOSTAND", "Data\/MODEL\/photostand.x" ],
+    [ "TEAPOT", "Data\/MODEL\/Teapot.x" ],
+    [ "SCISSORS", "Data\/MODEL\/scissors.x" ],
+    [ "BEERMUG", "Data\/MODEL\/beermug.x" ],
+    [ "BOTTLE1", "Data\/MODEL\/bottle1.x" ],
+
+
+    [ "BEERBOTTLE", "Data\/MODEL\/beerbottle.x" ],
+    [ "CONE", "Data\/MODEL\/cone.x" ],
+
+    [ "BSKET", "Data\/MODEL\/bsket.x" ],
+
+    [ "BOOTS", "Data\/MODEL\/boots.x" ],
+    [ "COIN", "Data\/MODEL\/coin.x" ],
+    [ "ITEMTIME", "Data\/MODEL\/ItemTime.x" ],
+
+    [ "BUCKET", "Data\/MODEL\/Bucket.x" ],
+    [ "FENCE", "Data\/MODEL\/fence.x" ],
+    [ "FENCEROT", "Data\/MODEL\/fenceRot.x" ],
+    [ "SCOOP", "Data\/MODEL\/scoop.x" ],
+    [ "BIKE", "Data\/MODEL\/bike.x" ],
+
+    [ "MAP1", "Data\/MODEL\/map1.x" ],
+    [ "MAP2", "Data\/MODEL\/map2.x" ]
+
+  ]
+}
