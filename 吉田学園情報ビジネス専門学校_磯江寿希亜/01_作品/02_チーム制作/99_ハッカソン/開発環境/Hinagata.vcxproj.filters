@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ball.cpp" />
+    <ClCompile Include="bg.cpp" />
+    <ClCompile Include="enemy.cpp" />
+    <ClCompile Include="fade.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="input.cpp" />
+    <ClCompile Include="Life.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="result.cpp" />
+    <ClCompile Include="score.cpp" />
+    <ClCompile Include="slingshot.cpp" />
+    <ClCompile Include="sound.cpp" />
+    <ClCompile Include="texture.cpp" />
+    <ClCompile Include="title.cpp" />
+    <ClCompile Include="Time.cpp" />
+    <ClCompile Include="ranking.cpp" />
+    <ClCompile Include="right.cpp" />
+    <ClCompile Include="combo.cpp" />
+    <ClCompile Include="effect.cpp" />
+    <ClCompile Include="particle.cpp" />
+    <ClCompile Include="gameover.cpp" />
+    <ClCompile Include="tutorial.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ball.h" />
+    <ClInclude Include="bg.h" />
+    <ClInclude Include="enemy.h" />
+    <ClInclude Include="fade.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="input.h" />
+    <ClInclude Include="Life.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="result.h" />
+    <ClInclude Include="score.h" />
+    <ClInclude Include="slingshot.h" />
+    <ClInclude Include="sound.h" />
+    <ClInclude Include="texture.h" />
+    <ClInclude Include="title.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="ranking.h" />
+    <ClInclude Include="right.h" />
+    <ClInclude Include="combo.h" />
+    <ClInclude Include="effect.h" />
+    <ClInclude Include="particle.h" />
+    <ClInclude Include="gameover.h" />
+    <ClInclude Include="tutorial.h" />
+  </ItemGroup>
+</Project>
