@@ -112,7 +112,6 @@
     <ClInclude Include="inputkeyboard.h" />
     <ClInclude Include="inputkeydata.h" />
     <ClInclude Include="Item.h" />
-    <ClInclude Include="joypad.h" />
     <ClInclude Include="letter.h" />
     <ClInclude Include="light.h" />
     <ClInclude Include="line.h" />
